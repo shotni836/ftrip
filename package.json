@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shotni836.github.io/foundtrip_website",
+  "homepage": "http://shotni836.github.io/ftrip",
   "name": "foundtrip",
   "version": "0.1.0",
   "private": true,
@@ -59,6 +59,7 @@
   },
   "devDependencies": {
     "@types/jquery": "^3.5.16",
+    "gh-pages": "^5.0.0",
     "react-router-dom": "^6.11.2"
   }
 }
