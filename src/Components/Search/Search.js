@@ -59,16 +59,6 @@ const Search = () => {
     }
   ]);
 
-
-  // useEffect(() => {
-  //   var timer = setTimeout(() => {
-  //     $('.main-search-div').css('display', 'block') 
-  //     $('.play-video').css('display', 'none') 
-  //   }, 30000);
-  //   // clearTimeout(timer)
-  // }, [])
-
-
   const setNoOfFlight = (option) => {
     console.log(option)
     setCountFlight(option.value)
